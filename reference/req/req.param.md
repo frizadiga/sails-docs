@@ -4,7 +4,7 @@ Returns the value of the parameter with the specified name.
 ### Usage
 
 ```javascript
-req.param(name[, defaultValue]);
+req.param(name,[defaultValue]);
 ```
 
 ### Details
